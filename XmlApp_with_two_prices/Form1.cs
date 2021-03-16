@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using LibXML;
 
-namespace XmlApp
+namespace XmlApp_with_two_prices
 {
     public partial class Form1 : Form
     {
@@ -17,9 +17,9 @@ namespace XmlApp
         {
             InitializeComponent();
 
-            var path = @"C:\Users\tawer\OneDrive\Рабочий стол\C#_project\XML\LibXML\project.xml";
+            var path = @"C:\Users\tawer\OneDrive\Рабочий стол\C#_project\XML\LibXML\project - Copy.xml";
 
-            var data = xml.LoadObjectFromFile<root>(path);
+            var data = xml.LoadObjectFromFile<Root>(path);
 
             dataGridView1.DataSource = data.Children;
         }

@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<katalog>
+	<phone id="1">
+		<company>Apple</company>
+		<model>Iphone XR</model>
+		<mem_size>64 ГБ</mem_size>
+		<price>
+			<rub>44 000 rub</rub>
+			<dol>600 dol</dol>
+		</price>
+	</phone>
+	<phone id="1">
+		<company>Apple</company>
+		<model>Iphone 11</model>
+		<mem_size>64 ГБ</mem_size>
+		<price>
+			<rub>58 216 rub</rub>
+			<dol>800 dol</dol>
+		</price>
+	</phone>
+	<phone id="1">
+		<company>Apple</company>
+		<model>Iphone 12</model>
+		<mem_size>64 ГБ</mem_size>
+		<price>
+			<rub>80 000 rub</rub>
+			<dol>1000 dol</dol>
+		</price>
+	</phone>
+	<phone id="1">
+		<company>Xiaomi</company>
+		<model>Redmi Note 9 Pro</model>
+		<mem_size>64 ГБ</mem_size>
+		<price>
+			<rub>20 000 rub</rub>
+			<dol>250 dol</dol>
+		</price>
+	</phone>
+	<phone id="1">
+		<company>Xiaomi</company>
+		<model>Pocophone F1</model>
+		<mem_size>64 ГБ</mem_size>
+		<price>
+			<rub>19 000 rub</rub>
+			<dol>273 dol</dol>
+		</price>
+	</phone><phone id="1">
+		<company>Samsung</company>
+		<model>Galaxy Note 10</model>
+		<mem_size>64 ГБ</mem_size>
+		<price>
+			<rub>50 000 rub</rub>
+			<dol>700 dol</dol>
+		</price>
+	</phone>
+	<phone id="1">
+		<company>OnePlus</company>
+		<model>6</model>
+		<mem_size>64 ГБ</mem_size>
+		<price>
+			<rub>25 000 rub</rub>
+			<dol>350 dol</dol>
+		</price>
+	</phone>
+	<phone id="1">
+		<company>Samsung</company>
+		<model>Galaxy S20</model>
+		<mem_size>64 ГБ</mem_size>
+		<price>
+			<rub>62 000 rub</rub>
+			<dol>850 dol</dol>
+		</price>
+	</phone>
+	<phone id="1">
+		<company>Samsung</company>
+		<model>Galaxy S20 Ultra</model>
+		<mem_size>64 ГБ</mem_size>
+		<price>
+			<rub>80 000 rub</rub>
+			<dol>1 000 dol</dol>
+		</price>
+	</phone>
+	<phone id="1">
+		<company>Dexp</company>
+		<model>Vsmart join</model>
+		<mem_size>64 ГБ</mem_size>
+		<price>
+			<rub>11 000 rub</rub>
+			<dol>163 dol</dol>
+		</price>
+	</phone>
+	<phone id="1">
+		<company>Dexp</company>
+		<model>LINX</model>
+		<mem_size>64 ГБ</mem_size>
+		<price>
+			<rub>5 000 rub</rub>
+			<dol>81 dol</dol>
+		</price>
+	</phone>
+</katalog>
