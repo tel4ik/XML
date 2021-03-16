@@ -9,4 +9,6 @@
 
 ## C добавлением вложений price
 
+![image](https://user-images.githubusercontent.com/78801557/111356069-09f37300-8699-11eb-95d3-cdf3247e8208.png)
 
+![image](https://user-images.githubusercontent.com/78801557/111356032-0102a180-8699-11eb-9b97-64e511f28f6e.png)
