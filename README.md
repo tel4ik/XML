@@ -2,8 +2,8 @@
 
 ---
 
-'
-'<?xml version="1.0"?>
+«`{XML} {
+<?xml version="1.0"?>
 <katalog>
 	<phone id="1">
 		<company>Apple</company>
@@ -76,7 +76,7 @@
 		<mem_size>64 ГБ</mem_size>
 		<price>81$</price>
 	</phone>
-</katalog>
+</katalog>} «`
 
 ![XML_view](https://user-images.githubusercontent.com/78801557/111325171-7d3abc00-867c-11eb-8a08-289761060d5f.png)
 ---
